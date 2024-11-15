@@ -5,5 +5,13 @@ I have had an influx of connections on LinkedIn since working at The Walt Disney
 I believe it important to establish my own bias when writing out my opinion on topics. In terms of the job application and referral process, I have only asked for one professional referral for a job opening. This was from a great friend and gradutate school colleague. We had been in the trenches together during grad school (back in the days of my central science grind) and he also was familiar with my programming work. All my other internships and jobs came through the job application process with an added touch I will get into later. My last two roles came from data points provided by LinkedIn in which I was recruited to apply to a job posting.
 
 ## A Referral According To Michael
-A simple search on Google on the definition of a job referral probably goes along the lines of asking someone at 
+I found a couple of different descriptions during a Google searche on the job referrals
+
+> ... a recommendation from someone who is connected to a company for a job seeker to get extra attention from the employer
+
+> ... a way for companies to find qualified candidates by leveraging the networks of their current employees.
+
+I feel like these descriptions are missing one concept, job referrals are personal. This LinkedIn article highlights this concept 
+
+
 
