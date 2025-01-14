@@ -15,7 +15,6 @@ I feel like these descriptions are a good start however missing one important co
 
 Furthermore, because they are personal, they also don't carry much weight if you haven't established a relationship with an individual before asking for a referral. Like anything, establishing this relationship takes time, effort, and sincerity. I find it interesting that the same articles acknowledge the referral process as being personal one proceed to give a template on how to reach out to people for a referral. I don't see templates as personal, sincere, or requiring much effort; thus the opposite of what a referral should actually look like. However the job referral is not dead, just needs some refactoring. 
 
-## 
 
 
 
