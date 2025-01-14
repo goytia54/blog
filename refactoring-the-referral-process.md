@@ -1,4 +1,4 @@
-# Refactoring The Referral Process (11/15/2024)
+# Refactoring The Referral Process (01/14/2024)
 I have had an influx of connections on LinkedIn since starting at The Walt Disney Company. The most common type of connection request has been for a job referral. However, I believe many individuals either don't understand or have forgotten what a referral entails. This post explores my opinions on this process and how you can better establish relationships and provide data points that could lead to a referral. Let's do a little [refactoring.](https://en.wikipedia.org/wiki/Code_refactoring) 
 
 ## My Job Application and Referral Process
